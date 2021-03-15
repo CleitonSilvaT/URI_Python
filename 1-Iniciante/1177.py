@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*
 
-# Conforme a definicao do problema nao exige que o valor seja armazena
+# Conforme a definicao do problema nao exige que o valor seja armazenado
 # A resposta eh calculada e apresentada diretamente
 
 if __name__ == '__main__':
